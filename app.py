@@ -16,3 +16,7 @@ def add(a, b):
 
 result = add(5 + 10)
 print(result)
+
+password = 'dscdsc345435'
+
+client_secret = "23432efsdfd"
